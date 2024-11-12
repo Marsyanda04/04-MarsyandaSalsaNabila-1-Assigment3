@@ -4,10 +4,10 @@ Repositori ini berisi assignment tentang "Machine Learning and Deep Learning" da
 
 ## Daftar Isi 📑
 
-* [Assignment 1: Computer Vision - Digital Image Processing](#assignment-1-computer-vision---digital-image-processing)
-* [Assignment 2: Computer Vision - Transfer Learning with Pre-trained CNN Model](#assignment-2-computer-vision---transfer-learning-with-pre-trained-cnn-model)
-* [Assignment 3: Computer Vision - Real-time Object Detection](#assignment-3-computer-vision---real-time-object-detection)
-* [Assignment 4: Natural Language Processing - Text Classification](#assignment-4-natural-language-processing---text-classification)
+* [Assignment 1: Computer Vision - Digital Image Processing](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_1.ipynb)
+* [Assignment 2: Computer Vision - Transfer Learning with Pre-trained CNN Model](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_2.ipynb)
+* [Assignment 3: Computer Vision - Real-time Object Detection](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_3.ipynb)
+* [Assignment 4: Natural Language Processing - Text Classification](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_4.ipynb)
 
 
 ## Assignment 1: Computer Vision - Digital Image Processing 🖼
@@ -19,7 +19,7 @@ Assignment ini berfokus pada replikasi algoritma image enhancement yang umum dig
 * **Perbandingan:** Perbandingan hasil dengan dan tanpa image enhancement. 📊
 * **Penjelasan Kode:** Penjelasan detail tentang implementasi algoritma. 📝
 
-[Link ke Assignment 1](./assignment3/digital_image_processing) (Ganti dengan link yang sesuai)
+[Link ke Assignment 1](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_1.ipynb)
 
 
 ## Assignment 2: Computer Vision - Transfer Learning with Pre-trained CNN Model 🧠
@@ -32,7 +32,7 @@ Assignment ini mengimplementasikan teknik transfer learning dengan pre-trained C
 * **Evaluasi:** Metrik evaluasi model (misalnya: accuracy, precision, recall, F1-score). 📊
 * **Kesimpulan:** Kesimpulan dari hasil eksperimen dan analisis perbandingan performa model dengan berbagai konfigurasi freezing layers. 🎓
 
-[Link ke Assignment 2](./assignment3/transfer_learning) (Ganti dengan link yang sesuai)
+[Link ke Assignment 2](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_2.ipynb)
 
 
 ## Assignment 3: Computer Vision - Real-time Object Detection 🎯
@@ -45,7 +45,7 @@ Assignment ini mengimplementasikan model YOLOv5 untuk mendeteksi objek secara re
 * **Evaluasi:** Metrik evaluasi model (misalnya: mAP, FPS). 📊
 * **Kesimpulan:**  Kesimpulan dari hasil implementasi dan performa model dalam mendeteksi objek secara real-time. 🎓
 
-[Link ke Assignment 3](./assignment3/real_time_object_detection) (Ganti dengan link yang sesuai)
+[Link ke Assignment 3](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_3.ipynb)
 
 
 ## Assignment 4: Natural Language Processing - Text Classification 💬
@@ -58,7 +58,7 @@ Assignment ini melakukan fine-tuning BERT untuk mengklasifikasi teks.
 * **Evaluasi:** Metrik evaluasi model (misalnya: accuracy, precision, recall, F1-score). 📊
 * **Kesimpulan:** Kesimpulan dari hasil klasifikasi teks dan analisis performa model. 🎓
 
-[Link ke Assignment 4](./assignment3/text_classification) (Ganti dengan link yang sesuai)
+[Link ke Assignment 4](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/03_Tim_8_4.ipynb)
 
 
 ## Cara Menggunakan Repositori ini 🛠️
