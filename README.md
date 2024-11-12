@@ -65,7 +65,7 @@ Assignment ini melakukan fine-tuning BERT untuk mengklasifikasi teks.
 
 1. Clone repositori ini ke komputer Anda: `git clone <link_repositori>`
 2. Buka folder assignment yang ingin Anda lihat.
-3. Pastikan Anda telah menginstal library yang dibutuhkan (misalnya: PyTorch, OpenCV, Transformers, Pandas, NumPy). `pip install -r requirements.txt` (jika ada file requirements.txt)
+3. Pastikan Anda telah menginstal library yang dibutuhkan (misalnya: PyTorch, OpenCV, Transformers, Pandas, NumPy). `pip install -r requirements.txt` 
 4. Jalankan kode program sesuai instruksi yang terdapat di dalam masing-masing folder assignment.
 
 
@@ -76,7 +76,7 @@ Kontribusi sangat diapresiasi!  Jika Anda menemukan kesalahan atau ingin menamba
 
 ## Lisensi 📜
 
-[MIT License]
+[MIT License](https://github.com/Marsyanda04/Ch.3-Computer-Vision-and-Natural-Language-Processing/blob/main/LICENSE)
 
 
 Semoga repositori ini bermanfaat!  Selamat belajar! 🎉
